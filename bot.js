@@ -1,21 +1,26 @@
-var NodePie = require('nodepie');
-var async = require('async');
-var Book = require('./book');
+var http = require('http-get');
+parser = require('./parser')
 
-function feedItemIterator(item, callback) {
-  var error;
-  var url = item.element.id;
+var FEEDS = [
+  'feeds.feedburner.com/oreilly/newbooks',
+  'www.pragprog.com/feed/global'
+];
 
-  if (url === undefined) url = item.getPermalink();
+function work() {
+  FEEDS.forEach(function(feedUrl) {
 
-  callback(error, Book.factory({ title: item.getTitle(), url: url, timestamp: item.getDate() }));
+    http.get({ url: feedUrl }, function(error, result) {
+      if (error) {
+        console.error(error);
+      } else {
+        parser.parse(result.buffer, function(books) {
+          books.forEach(function(book) {
+            console.log('\n%s\n%s\n%s\n', book.timestamp, book.title, book.url);
+          });
+        });
+      }
+    });
+  });
 }
 
-function parse(xml, callback) {
-  var feed = new NodePie(xml);
-
-  feed.init();
-  async.map(feed.getItems(), feedItemIterator, function(err, books) { callback(books); });
-}
-
-exports.parse = parse;
+exports.work = work;
