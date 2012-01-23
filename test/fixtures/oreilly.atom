@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/atom10full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:on="http://www.oreillynet.com/csrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xml:lang="en-US">
+
+<title>O'Reilly Media, Inc. New Titles</title>
+<link rel="alternate" type="text/html" href="http://oreilly.com/" hreflang="en" title="O'Reilly Media, Inc. New Titles" />
+<subtitle type="text">O'Reilly's New Titles: Books, Ebooks, Video, and More</subtitle>
+<rights>Copyright O'Reilly Media, Inc.</rights>
+<id>http://oreilly.com/</id>
+<updated>2012-01-23T12:22:18-08:00</updated>
+
+<itunes:author>O'Reilly Media, Inc.</itunes:author>
+<itunes:category text="Technology" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:owner>
+<itunes:name>O'Reilly Media, Inc.</itunes:name>
+<itunes:email>webmaster@oreillynet.com</itunes:email>
+</itunes:owner>
+
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="http://feeds.feedburner.com/oreilly/newbooks" /><feedburner:info uri="oreilly/newbooks" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><logo>http://cdn.oreilly.com/images/oreilly/oreilly_sm.gif</logo><entry>
+	<title>Building Android Apps with HTML, CSS, and JavaScript</title>
+	<id>http://oreilly.com/catalog/9781449316419/</id>
+	<link rel="alternate" href="http://feedproxy.google.com/~r/oreilly/newbooks/~3/nLcC4xIg_iw/" />
+	
+	<author><name>Jonathan Stark</name></author>
+	<category term="Android" />
+	<category term="Web Applications" />
+	<category term="Web Design" />
+	<category term="Web Development" />
+	<category term="Wireless Programming" />
+	<updated>2012-01-23T12:22:18-08:10</updated>
+	<on:short_desc>PRINT or PDF</on:short_desc>
+<content type="html">
+	&lt;a href="http://oreilly.com/catalog/9781449316419/"&gt;&lt;img src="http://covers.oreilly.com/images/9781449316419/bkt.gif" style="float: left; width: 85px; padding: 0 10px 10px 0;" /&gt;&lt;/a&gt;&lt;p&gt;If you know HTML, CSS, and JavaScript, you already have the tools you need to develop Android applications. Now updated for HTML5, the second edition of this hands-on guide shows you how to use open source web standards to design and build apps that can be adapted for any Android device. You&amp;#8217;ll learn how to create an Android-friendly web app on the platform of your choice, and then use Adobe&amp;#8217;s free PhoneGap framework to convert it to a native Android app.&lt;/p&gt;
+	&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=nLcC4xIg_iw:aaqQfe5A8qk:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=nLcC4xIg_iw:aaqQfe5A8qk:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/oreilly/newbooks/~4/nLcC4xIg_iw" height="1" width="1"/&gt;</content><feedburner:origLink>http://oreilly.com/catalog/9781449316419/</feedburner:origLink></entry>
+
+<entry>
+	<title>Programming Interactivity</title>
+	<id>http://oreilly.com/catalog/9781449311445/</id>
+	<link rel="alternate" href="http://feedproxy.google.com/~r/oreilly/newbooks/~3/431VDMGzMyw/" />
+	
+	<author><name>Joshua Noble</name></author>
+	<category term="Devices &amp; Peripherals" />
+	<category term="Hacks &amp; Modifications" />
+	<category term="Other Programming" />
+	<category term="Other Smart Devices" />
+	<updated>2012-01-23T12:22:18-08:11</updated>
+	<on:short_desc>PRINT or PDF</on:short_desc>
+<content type="html">
+	&lt;a href="http://oreilly.com/catalog/9781449311445/"&gt;&lt;img src="http://covers.oreilly.com/images/9781449311445/bkt.gif" style="float: left; width: 85px; padding: 0 10px 10px 0;" /&gt;&lt;/a&gt;&lt;p&gt;Ready to create rich interactive experiences with your artwork, designs, or prototypes? This is the ideal place to start. With this hands-on guide, you&amp;#8217;ll explore several themes in interactive art and design&amp;#8212;including 3D graphics, sound, physical interaction, computer vision, and geolocation&amp;#8212;and learn the basic programming and electronics concepts you need to implement them. No previous experience is necessary.&lt;/p&gt;
+	&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=431VDMGzMyw:0u0eY8U2EI8:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=431VDMGzMyw:0u0eY8U2EI8:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/oreilly/newbooks/~4/431VDMGzMyw" height="1" width="1"/&gt;</content><feedburner:origLink>http://oreilly.com/catalog/9781449311445/</feedburner:origLink></entry>
+
+<entry>
+	<title>Microsoft Manual of Style</title>
+	<id>http://oreilly.com/catalog/9780735648715/</id>
+	<link rel="alternate" href="http://feedproxy.google.com/~r/oreilly/newbooks/~3/5MwOp8-nk8M/" />
+	
+	<author><name>Microsoft Corporation</name></author>
+	<category term="Additional Topics" />
+	<category term="Other(Microsoft Press)" />
+	<updated>2012-01-20T14:06:18-08:12</updated>
+	<on:short_desc>PRINT</on:short_desc>
+<content type="html">
+	&lt;a href="http://oreilly.com/catalog/9780735648715/"&gt;&lt;img src="http://covers.oreilly.com/images/9780735648715/bkt.gif" style="float: left; width: 85px; padding: 0 10px 10px 0;" /&gt;&lt;/a&gt;&lt;p&gt;The essential reference for content creators, journalists, technical writers, editors, and everyone else who writes about computer technology&amp;#8212;direct from the Editorial Style Board at Microsoft.&lt;/p&gt;
+	&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=5MwOp8-nk8M:dTHh4BD6v0s:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=5MwOp8-nk8M:dTHh4BD6v0s:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/oreilly/newbooks/~4/5MwOp8-nk8M" height="1" width="1"/&gt;</content><feedburner:origLink>http://oreilly.com/catalog/9780735648715/</feedburner:origLink></entry>
+
+<entry>
+	<title>Hacking and Securing iOS Applications</title>
+	<id>http://oreilly.com/catalog/9781449318741/</id>
+	<link rel="alternate" href="http://feedproxy.google.com/~r/oreilly/newbooks/~3/URQGo3hOJgc/" />
+	
+	<author><name>O'Reilly Media, Inc.</name></author>
+	<category term="Wireless" />
+	<category term="Wireless Programming" />
+	<updated>2012-01-18T14:06:18-08:13</updated>
+	<on:short_desc>PRINT or PDF</on:short_desc>
+<content type="html">
+	&lt;a href="http://oreilly.com/catalog/9781449318741/"&gt;&lt;img src="http://covers.oreilly.com/images/9781449318741/bkt.gif" style="float: left; width: 85px; padding: 0 10px 10px 0;" /&gt;&lt;/a&gt;&lt;p&gt;Based on unique and previously undocumented research, this book by noted forensic expert Jonathan Zdziarski shows the numerous weaknesses that exist in typical iPhone and iPad apps. Zdziarski shows finance companies, large institutions and others where the exploitable flaws lie in their code, and in this book he will show you as well, in a clear, direct, and immediately applicable style.&lt;/p&gt;
+	&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=URQGo3hOJgc:oKZWR3eIYlc:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=URQGo3hOJgc:oKZWR3eIYlc:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/oreilly/newbooks/~4/URQGo3hOJgc" height="1" width="1"/&gt;</content><feedburner:origLink>http://oreilly.com/catalog/9781449318741/</feedburner:origLink></entry>
+
+<entry>
+	<title>Understanding PaaS</title>
+	<id>http://oreilly.com/catalog/9781449323424/</id>
+	<link rel="alternate" href="http://feedproxy.google.com/~r/oreilly/newbooks/~3/eDREnLrF2Pg/" />
+	
+	<author><name>O'Reilly Media, Inc.</name></author>
+	<category term="Cloud Apps" />
+	<updated>2012-01-17T14:06:18-08:14</updated>
+	<on:short_desc>PRINT or PDF</on:short_desc>
+<content type="html">
+	&lt;a href="http://oreilly.com/catalog/9781449323424/"&gt;&lt;img src="http://covers.oreilly.com/images/9781449323424/bkt.gif" style="float: left; width: 85px; padding: 0 10px 10px 0;" /&gt;&lt;/a&gt;&lt;p&gt;The least understood feature of cloud computing, Platform as a Service (PaaS), is also the most powerful and cost effective. This concise overview shows you why organizations that properly wield PaaS can quickly gain a strong competitive advantage. You&amp;#8217;ll learn how PaaS enables developers to pursue low cost R&amp;amp;D projects, lets system administrators focus on systems rather than servers, and helps architects evaluate new technology quickly and directly. This book offers valuable advice for technically and not-so-technically minded people who want to understand how PaaS can change the way organizations do computing.&lt;/p&gt;
+	&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=eDREnLrF2Pg:nfKfc-sKTvs:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=eDREnLrF2Pg:nfKfc-sKTvs:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/oreilly/newbooks/~4/eDREnLrF2Pg" height="1" width="1"/&gt;</content><feedburner:origLink>http://oreilly.com/catalog/9781449323424/</feedburner:origLink></entry>
+
+<entry>
+	<title>McCullough and Berglund on Mastering Advanced Git</title>
+	<id>http://oreilly.com/catalog/0636920024781/</id>
+	<link rel="alternate" href="http://feedproxy.google.com/~r/oreilly/newbooks/~3/i8Au-uZIWS4/" />
+	
+	<author><name>O'Reilly Media, Inc.</name></author>
+	<category term="Other Programming" />
+	<updated>2012-01-15T14:06:18-08:15</updated>
+	<on:short_desc>PRINT</on:short_desc>
+<content type="html">
+	&lt;a href="http://oreilly.com/catalog/0636920024781/"&gt;&lt;img src="http://covers.oreilly.com/images/0636920024781/bkt.gif" style="float: left; width: 85px; padding: 0 10px 10px 0;" /&gt;&lt;/a&gt;&lt;p&gt;Go beyond the basics and take Git to a higher level of productivity. If you&amp;#8217;re familiar with this popular distributed revision control system (DVCS), &lt;b&gt;Mastering Advanced Git&lt;/b&gt; will help you leverage Git&amp;#8217;s powerful yet underused advanced features.&lt;/p&gt;
+	&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=i8Au-uZIWS4:QRh1Cqt605U:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=i8Au-uZIWS4:QRh1Cqt605U:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/oreilly/newbooks/~4/i8Au-uZIWS4" height="1" width="1"/&gt;</content><feedburner:origLink>http://oreilly.com/catalog/0636920024781/</feedburner:origLink></entry>
+
+<entry>
+	<title>The Panasonic Lumix DMC-GH2</title>
+	<id>http://oreilly.com/catalog/9781933952895/</id>
+	<link rel="alternate" href="http://feedproxy.google.com/~r/oreilly/newbooks/~3/S7NSkEU8gN0/" />
+	
+	<author><name>Brian Matsumoto, Carol Roullard</name></author>
+	<category term="Digital Photography" />
+	<updated>2012-01-14T14:06:18-08:16</updated>
+	<on:short_desc>PRINT</on:short_desc>
+<content type="html">
+	&lt;a href="http://oreilly.com/catalog/9781933952895/"&gt;&lt;img src="http://covers.oreilly.com/images/9781933952895/bkt.gif" style="float: left; width: 85px; padding: 0 10px 10px 0;" /&gt;&lt;/a&gt;&lt;div&gt;&lt;p&gt;The Panasonic Lumix DMC-GH2: The Unofficial Quintessential Guide provides a wealth of information and professional insights for owners of this powerful HD camera. With its electronic viewfinder and interchangeable lenses, the GH2 is capable of not only recording professional-quality still images, but has the added ability to record HD video as well. &lt;br /&gt;&lt;br /&gt; With the GH2, Panasonic has significantly expanded the video capabilities beyond those of previous models. Among the improvements is the ability to adjust the frame rate and shutter speed when filming video, giving users greater control over the movie-making process. &lt;br /&gt;&lt;br /&gt; In this guide, authors Brian Matsumoto and Carol F. Roullard explore and explain the features and capabilities of the GH2 camera in detail, as they cover everything from the basic features of the camera to numerous advanced photographic applications. The informative text is illustrated with example images throughout.&lt;br /&gt;&lt;br /&gt; Readers will learn how to: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Control the most basic camera functions-focus and exposure&lt;/li&gt; &lt;li&gt;Navigate the camera's menu system&lt;/li&gt; &lt;li&gt;Achieve a range of artistic effects using various camera settings&lt;/li&gt; &lt;li&gt;Use the camera's automated controls, and override those controls to obtain better exposure &lt;/li&gt; &lt;li&gt;Use the GH2 in its video mode to obtain HD videos &lt;/li&gt; &lt;li&gt;Post-process images and videos on a computer&lt;/li&gt; &lt;li&gt;Expand the camera's use by mounting it on a telescope or microscope&lt;/li&gt; &lt;/ul&gt; And much more...&lt;/div&gt;
+	&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=S7NSkEU8gN0:BpDiPvEvYhw:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=S7NSkEU8gN0:BpDiPvEvYhw:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/oreilly/newbooks/~4/S7NSkEU8gN0" height="1" width="1"/&gt;</content><feedburner:origLink>http://oreilly.com/catalog/9781933952895/</feedburner:origLink></entry>
+
+<entry>
+	<title>The Art of Black and White Photography</title>
+	<id>http://oreilly.com/catalog/9781933952963/</id>
+	<link rel="alternate" href="http://feedproxy.google.com/~r/oreilly/newbooks/~3/2Ls__b45kAI/" />
+	
+	<author><name>Torsten Andreas Hoffmann</name></author>
+	<category term="Digital Photography" />
+	<updated>2012-01-14T14:06:18-08:17</updated>
+	<on:short_desc>PRINT</on:short_desc>
+<content type="html">
+	&lt;a href="http://oreilly.com/catalog/9781933952963/"&gt;&lt;img src="http://covers.oreilly.com/images/9781933952963/bkt.gif" style="float: left; width: 85px; padding: 0 10px 10px 0;" /&gt;&lt;/a&gt;&lt;p&gt;In The Art of Black and White Photography author and photographer Torsten Andreas Hoffmann focuses on image composition and image capture, with an emphasis on the creative aspects of black and white photography. &lt;br /&gt;&lt;br /&gt; After introducing the ground rules of composition, Hoffmann illustrates their applications with his own stunning black and white images that cover a number of photographic genres, including architecture, street photography, portraiture, and surreal photography. Also discussed are the elements of a "photographic language", which distinguishes creative photography from random shooting. Finally, you will learn valuable post-processing techniques, mostly using Adobe Photoshop, that emphasize the functions necessary for creating outstanding black and white images.&lt;br /&gt;&lt;br /&gt; This second edition has been updated to include Photoshop CS5, as well as brand new images, content, and a revised layout.&lt;/p&gt;
+	&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=2Ls__b45kAI:WWckGL8mK6E:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=2Ls__b45kAI:WWckGL8mK6E:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/oreilly/newbooks/~4/2Ls__b45kAI" height="1" width="1"/&gt;</content><feedburner:origLink>http://oreilly.com/catalog/9781933952963/</feedburner:origLink></entry>
+
+<entry>
+	<title>Running Lean</title>
+	<id>http://oreilly.com/catalog/9781449311612/</id>
+	<link rel="alternate" href="http://feedproxy.google.com/~r/oreilly/newbooks/~3/jcx32bfy_-g/" />
+	
+	<author><name>O'Reilly Media, Inc.</name></author>
+	<category term="Business" />
+	<category term="Project &amp; Career Management" />
+	<updated>2012-01-13T14:06:18-08:18</updated>
+	<on:short_desc>PRINT</on:short_desc>
+<content type="html">
+	&lt;a href="http://oreilly.com/catalog/9781449311612/"&gt;&lt;img src="http://covers.oreilly.com/images/9781449311612/bkt.gif" style="float: left; width: 85px; padding: 0 10px 10px 0;" /&gt;&lt;/a&gt;&lt;p&gt;Are you an entrepreneur about to create a new web application? If you want to maximize your chances of building something customers want, this book demonstrates ways to apply and test techniques for customer development, Lean Startup, and bootstrapping. Learn how to identify and engage customers throughout the development cycle so you can focus on building a product that people will actually buy and use. By rigorously following the techniques described in Running Lean, you can eliminate waste&amp;#8212;whether it's time, money, effort, or all of the above&amp;#8212;and get your product to market quickly.&lt;/p&gt;
+	&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=jcx32bfy_-g:tkM9Vsk7WCk:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=jcx32bfy_-g:tkM9Vsk7WCk:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/oreilly/newbooks/~4/jcx32bfy_-g" height="1" width="1"/&gt;</content><feedburner:origLink>http://oreilly.com/catalog/9781449311612/</feedburner:origLink></entry>
+
+<entry>
+	<title>Make: Technology on Your Time Volume 29</title>
+	<id>http://oreilly.com/catalog/9781449309947/</id>
+	<link rel="alternate" href="http://feedproxy.google.com/~r/oreilly/newbooks/~3/lFJlQ0FxO0k/" />
+	
+	<author><name>O'Reilly Media, Inc.</name></author>
+	<category term="Hacks &amp; Modifications" />
+	<updated>2012-01-13T14:06:18-08:19</updated>
+	<on:short_desc>PRINT</on:short_desc>
+<content type="html">
+	&lt;a href="http://oreilly.com/catalog/9781449309947/"&gt;&lt;img src="http://covers.oreilly.com/images/9781449309947/bkt.gif" style="float: left; width: 85px; padding: 0 10px 10px 0;" /&gt;&lt;/a&gt;&lt;p&gt;MAKE Volume 29 takes bio-hacking to a new level. Get introduced to DIY tracking devices before they hit the consumer electronics marketplace. Learn how to build an EKG machine to study your heartbeat, and put together a DIY bio lab to study athletic motion using consumer grade hardware.&lt;/p&gt;
+	&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=lFJlQ0FxO0k:8ibriLRZUFw:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=lFJlQ0FxO0k:8ibriLRZUFw:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/oreilly/newbooks/~4/lFJlQ0FxO0k" height="1" width="1"/&gt;</content><feedburner:origLink>http://oreilly.com/catalog/9781449309947/</feedburner:origLink></entry>
+
+<entry>
+	<title>Programming iOS 5</title>
+	<id>http://oreilly.com/catalog/9781449327118/</id>
+	<link rel="alternate" href="http://feedproxy.google.com/~r/oreilly/newbooks/~3/5Xh_jcBFWzI/" />
+	
+	<author><name>O'Reilly Media, Inc.</name></author>
+	<category term="Devices &amp; Peripherals" />
+	<category term="Ipad" />
+	<category term="Ipod &amp; Ipod Touch" />
+	<category term="Iphone" />
+	<category term="Mac Os X" />
+	<updated>2012-01-12T14:06:18-08:20</updated>
+	<on:short_desc>PRINT</on:short_desc>
+<content type="html">
+	&lt;a href="http://oreilly.com/catalog/9781449327118/"&gt;&lt;img src="http://covers.oreilly.com/images/9781449327118/bkt.gif" style="float: left; width: 85px; padding: 0 10px 10px 0;" /&gt;&lt;/a&gt;&lt;p&gt;Get a solid grounding in all the fundamentals of Cocoa Touch&amp;#8212;and avoid problems during iPhone and iPad app development. With this revised and updated edition, you&amp;#8217;ll learn how to work effectively with Objective-C and Xcode, using iOS 5 and Xcode 4.2 features. This book covers iOS 5 in a rigorous, orderly fashion&amp;#8212;ideal whether you&amp;#8217;re approaching iOS for the first time or need a reference to bolster existing skills.&lt;/p&gt;
+	&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=5Xh_jcBFWzI:IwroeOaMKwg:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=5Xh_jcBFWzI:IwroeOaMKwg:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/oreilly/newbooks/~4/5Xh_jcBFWzI" height="1" width="1"/&gt;</content><feedburner:origLink>http://oreilly.com/catalog/9781449327118/</feedburner:origLink></entry>
+
+<entry>
+	<title>Introducing Starling</title>
+	<id>http://oreilly.com/catalog/9781449320867/</id>
+	<link rel="alternate" href="http://feedproxy.google.com/~r/oreilly/newbooks/~3/Aksx6JEO37U/" />
+	
+	<author><name>O'Reilly Media, Inc.</name></author>
+	<category term="Flash &amp; Actionscript" />
+	<category term="Adobe Developer Library" />
+	<updated>2012-01-12T14:06:18-08:21</updated>
+	<on:short_desc>PDF</on:short_desc>
+<content type="html">
+	&lt;a href="http://oreilly.com/catalog/9781449320867/"&gt;&lt;img src="http://covers.oreilly.com/images/9781449320867/bkt.gif" style="float: left; width: 85px; padding: 0 10px 10px 0;" /&gt;&lt;/a&gt;&lt;p&gt;Starling is an ActionScript 3 2D framework developed on top of the Stage3D APIs (available on desktop in Flash Player 11 and Adobe AIR 3). Starling is mainly designed for game development, but could be used for many other use cases. Starling makes it possible to write fast GPU accelerated applications without having to touch the low-level Stage3D APIs.&lt;br /&gt;&lt;br /&gt; Most Flash developers want to be able to leverage GPU acceleration (through Stage3D) without the need to write such higher-level frameworks and dig into the low-level Stage3D APIs. Starling is completely designed after the Flash Player APIs and abstracts the complexity of Stage3D (Molehill) and allows easy and intuitive programming for everyone.&lt;br /&gt;&lt;br /&gt; Obviously Starling is for ActionScript 3 developers, especially those involved in 2D game development; of course you will need to have a basic understanding of ActionScript 3. By its design (lightweight, flexible and simple), Starling can be used also be used for other use cases like UI programming. That said, everything is designed to be as intuitive as possible, so any Java&amp;#8482; or .Net&amp;#8482; developer will get the hang of it quickly as well.&lt;/p&gt;
+	&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=Aksx6JEO37U:6rnJZAlPeV0:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=Aksx6JEO37U:6rnJZAlPeV0:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/oreilly/newbooks/~4/Aksx6JEO37U" height="1" width="1"/&gt;</content><feedburner:origLink>http://oreilly.com/catalog/9781449320867/</feedburner:origLink></entry>
+
+<entry>
+	<title>The Information Diet</title>
+	<id>http://oreilly.com/catalog/9781449304683/</id>
+	<link rel="alternate" href="http://feedproxy.google.com/~r/oreilly/newbooks/~3/lYMq7d5mJaA/" />
+	
+	<author><name>Clay Johnson</name></author>
+	<category term="Digital Culture" />
+	<updated>2012-01-11T05:29:36-08:22</updated>
+	<on:short_desc>PRINT or PDF</on:short_desc>
+<content type="html">
+	&lt;a href="http://oreilly.com/catalog/9781449304683/"&gt;&lt;img src="http://covers.oreilly.com/images/9781449304683/bkt.gif" style="float: left; width: 85px; padding: 0 10px 10px 0;" /&gt;&lt;/a&gt;&lt;div&gt;&lt;p&gt;The modern human animal spends upwards of 11 hours out of every 24 in a state of constant consumption. Not eating, but &lt;i&gt;gorging&lt;/i&gt; on information ceaselessly spewed from the screens and speakers we hold dear. Just as we have grown morbidly obese on sugar, fat, and flour&amp;#8212;so, too, have we become gluttons for texts, instant messages, emails, RSS feeds, downloads, videos, status updates, and tweets. &lt;/p&gt;&lt;p&gt; We're all battling a storm of distractions, buffeted with notifications and tempted by tasty tidbits of information. And just as too much junk food can lead to obesity, too much junk information can lead to cluelessness. &lt;i&gt;The Information Diet&lt;/i&gt; shows you how to thrive in this information glut&amp;#8212;what to look for, what to avoid, and how to be selective. In the process, author Clay Johnson explains the role information has played throughout history, and why following his prescribed diet is essential for everyone who strives to be smart, productive, and sane.&lt;/p&gt;&lt;/div&gt;
+	&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=lYMq7d5mJaA:aJ8soVOL3zI:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=lYMq7d5mJaA:aJ8soVOL3zI:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/oreilly/newbooks/~4/lYMq7d5mJaA" height="1" width="1"/&gt;</content><feedburner:origLink>http://oreilly.com/catalog/9781449304683/</feedburner:origLink></entry>
+
+<entry>
+	<title>The Linux Command Line</title>
+	<id>http://oreilly.com/catalog/9781593273897/</id>
+	<link rel="alternate" href="http://feedproxy.google.com/~r/oreilly/newbooks/~3/Pc593uIzMmo/" />
+	
+	<author><name>William E. Shotts Jr.</name></author>
+	<category term="Linux/Unix" />
+	<updated>2012-01-07T13:56:19-08:23</updated>
+	<on:short_desc>PRINT</on:short_desc>
+<content type="html">
+	&lt;a href="http://oreilly.com/catalog/9781593273897/"&gt;&lt;img src="http://covers.oreilly.com/images/9781593273897/bkt.gif" style="float: left; width: 85px; padding: 0 10px 10px 0;" /&gt;&lt;/a&gt;&lt;p&gt;&lt;i&gt;The Linux Command Line&lt;/i&gt; takes you from your very first terminal keystrokes to writing full programs in Bash, the most popular Linux shell. Along the way you'll learn the timeless skills handed down by generations of gray-bearded, mouse-shunning gurus: file navigation, environment configuration, command chaining, pattern matching with regular expressions, and more.&lt;/p&gt;
+	&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=Pc593uIzMmo:NgqS02GeCbU:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=Pc593uIzMmo:NgqS02GeCbU:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/oreilly/newbooks/~4/Pc593uIzMmo" height="1" width="1"/&gt;</content><feedburner:origLink>http://oreilly.com/catalog/9781593273897/</feedburner:origLink></entry>
+
+<entry>
+	<title>Web Development Recipes</title>
+	<id>http://oreilly.com/catalog/9781934356838/</id>
+	<link rel="alternate" href="http://feedproxy.google.com/~r/oreilly/newbooks/~3/37crWfSpU-Y/" />
+	
+	<author><name>Aaron Godin, Brian P. Hogan, Chris Johnson, Chris Warren, Mike Weber</name></author>
+	<category term="Web Design" />
+	<category term="Web Development" />
+	<updated>2012-01-06T11:53:49-08:24</updated>
+	<on:short_desc>PRINT</on:short_desc>
+<content type="html">
+	&lt;a href="http://oreilly.com/catalog/9781934356838/"&gt;&lt;img src="http://covers.oreilly.com/images/9781934356838/bkt.gif" style="float: left; width: 85px; padding: 0 10px 10px 0;" /&gt;&lt;/a&gt;&lt;p&gt;Modern web development takes more than just HTML and CSS with a little JavaScript mixed in. Clients want more responsive sites with faster interfaces that work on multiple devices, and you need the latest tools and techniques to make that happen. This book gives you more than 40 concise, tried-and-true solutions to today's web development problems, and introduces new workflows that will expand your skillset.&lt;/p&gt;
+	&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=37crWfSpU-Y:0X07R5_uCGc:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/oreilly/newbooks?a=37crWfSpU-Y:0X07R5_uCGc:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/oreilly/newbooks?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/oreilly/newbooks/~4/37crWfSpU-Y" height="1" width="1"/&gt;</content><feedburner:origLink>http://oreilly.com/catalog/9781934356838/</feedburner:origLink></entry>
+
+</feed>
